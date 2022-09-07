@@ -8,7 +8,7 @@ I've working and learning web technologies and building projects throughout the 
 
 * 🌍  I'm based in Kolhapur, Maharashtra
 * ✉️  You can contact me at [vijaytembugade21@gmail.com](mailto:vijaytembugade21@gmail.com)
-* ⚡  Currently working in Mirraw, which is Ecommerce organization.
+* ⚡  Currently working in Intangles Labs, Pune.
 
 ### Skills
 
