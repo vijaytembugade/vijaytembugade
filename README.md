@@ -3,8 +3,7 @@ Hi 👋 My name is Vijay Tembugade
 
 Software Engineer
 -----------------
-
-I've working and learning web technologies and building projects throughout the process. I believe Software development is a process where, breaking down the problem into smaller parts gives you a big picture of system. I am looking forword to learn and work on React ecosystem.
+Software Engineering is an Art. 
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [vijaytembugade21@gmail.com](mailto:vijaytembugade21@gmail.com)
