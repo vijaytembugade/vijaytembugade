@@ -6,7 +6,7 @@ Software Engineer
 
 I've working and learning web technologies and building projects throughout the process. I believe Software development is a process where, breaking down the problem into smaller parts gives you a big picture of system. I am looking forword to learn and work on React ecosystem.
 
-* 🌍  I'm based in Kolhapur, Maharashtra
+* 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [vijaytembugade21@gmail.com](mailto:vijaytembugade21@gmail.com)
 * ⚡  Currently working in Intangles Labs, Pune.
 
