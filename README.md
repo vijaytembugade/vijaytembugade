@@ -3,7 +3,7 @@ Hi 👋 My name is Vijay Tembugade
 
 Software Engineer
 -----------------
-Software Engineering is an Art. 
+Software Engineering is an Art. As every Artist require to practise its craft and work towards it to make things perfect , a same thing is applied to the Software Engineering. I I believe in building , solutioning and working in team to make product better and enhance the user experince and satisfaction in every posible way.   
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [vijaytembugade21@gmail.com](mailto:vijaytembugade21@gmail.com)
