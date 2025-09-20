@@ -7,7 +7,7 @@ Software Engineering is an Art. As every Artist require to practise its craft an
 
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [vijaytembugade21@gmail.com](mailto:vijaytembugade21@gmail.com)
-* ⚡  Currently working in Intangles Labs, Pune.
+
 
 ### Skills
 
