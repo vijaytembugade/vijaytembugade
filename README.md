@@ -1,7 +1,7 @@
 Hi 👋 My name is Vijay Tembugade
 ================================
 
-Software Engineer
+Software Engineer @ Zendesk
 -----------------
 Software Engineering is an Art. As every Artist require to practise its craft and work towards it to make things perfect , a same thing is applied to the Software Engineering. I believe in building , solutioning and working in team to make product better and enhance the user experince and satisfaction in every posible way.   
 
